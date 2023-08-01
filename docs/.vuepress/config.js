@@ -28,7 +28,7 @@ module.exports = {
       },
       {
         text: "每日一题",
-        link: "/daily/",
+        link: "/daily/20230731",
       },
       {
         text: "JavaScript",
